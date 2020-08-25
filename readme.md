@@ -8,7 +8,7 @@ This respository is our implementation of
 
 All codes are implemented in MATLAB. If you have issues, please email:
 
-hyzhang98@gmail.com or ruizhang8633@gmail.com or.
+hyzhang98@gmail.com or ruizhang8633@gmail.com.
 
 ## Citation
 
