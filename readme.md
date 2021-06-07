@@ -6,7 +6,7 @@ This respository is our implementation of
 
 
 
-All codes are implemented in MATLAB. If you have issues, please email:
+All codes are implemented in MATLAB. If you have any issues, please email:
 
 hyzhang98@gmail.com or hyzhang98@mail.nwpu.edu.cn.
 
@@ -21,8 +21,8 @@ hyzhang98@gmail.com or hyzhang98@mail.nwpu.edu.cn.
   volume={43},
   number={6},
   pages={2150-2157},
-  doi={10.1109/TPAMI.2020.3007637}}
-
+  doi={10.1109/TPAMI.2020.3007637}
+}
 ```
 
 ### 
