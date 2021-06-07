@@ -2,25 +2,26 @@
 
 This respository is our implementation of 
 
-[Rui Zhang, Hongyuan Zhang, and Xuelong Li, "Robust Multi-Task Learning with Flexible Manifold Constraint," *IEEE Transactions on Pattern Analysis and Machine Intelligence*](https://ieeexplore.ieee.org/document/9134971).
+[Rui Zhang, Hongyuan Zhang, and Xuelong Li, "Robust Multi-Task Learning with Flexible Manifold Constraint," *IEEE Transactions on Pattern Analysis and Machine Intelligence*, vol 43. no. 6, pp. 2150-2157, 2021](https://ieeexplore.ieee.org/document/9134971).
 
 
 
 All codes are implemented in MATLAB. If you have issues, please email:
 
-hyzhang98@gmail.com or ruizhang8633@gmail.com.
+hyzhang98@gmail.com or hyzhang98@mail.nwpu.edu.cn.
 
 ## Citation
 
 ```
 @ARTICLE{FMC-MTL,
-  author={R. {Zhang} and H. {Zhang} and X. {Li}},
+  author={Zhang, Rui and Zhang, Hongyuan and Li, Xuelong},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={Robust Multi-Task Learning with Flexible Manifold Constraint}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={1-1},}
+  title={Robust Multi-Task Learning With Flexible Manifold Constraint}, 
+  year={2021},
+  volume={43},
+  number={6},
+  pages={2150-2157},
+  doi={10.1109/TPAMI.2020.3007637}}
 
 ```
 
